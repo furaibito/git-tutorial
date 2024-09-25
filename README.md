@@ -2,4 +2,4 @@
 
 - frature-A
 - fix-B
-- feature-C xxx
+- feature-C
